@@ -1,0 +1,28 @@
+{
+  "name": "make-me-hapi",
+  "version": "0.0.0",
+  "description": "Hello World server with happi",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macikokoro/makemehapi.git"
+  },
+  "keywords": [
+    "hapi",
+    "server",
+    "module"
+  ],
+  "author": "JQ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macikokoro/makemehapi/issues"
+  },
+  "homepage": "https://github.com/macikokoro/makemehapi",
+  "dependencies": {
+    "hapi": "^6.4.0"
+  }
+}
